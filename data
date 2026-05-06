@@ -1,0 +1,17 @@
+## Data Availability
+
+The datasets used in this project were obtained from publicly available sources:
+
+- GEO (Gene Expression Omnibus)
+- GDSC (Genomics of Drug Sensitivity in Cancer)
+- DepMap (Cancer Dependency Map)
+
+Due to access and size constraints, the raw datasets are not included in this repository.
+
+Users can download the datasets from:
+
+- GEO: https://www.ncbi.nlm.nih.gov/geo/
+- GDSC: https://www.cancerrxgene.org/
+- DepMap: https://depmap.org/
+
+After downloading, place the files in the `data/` directory to reproduce the analysis.
